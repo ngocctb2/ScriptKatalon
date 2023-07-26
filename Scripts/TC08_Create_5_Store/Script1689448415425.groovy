@@ -43,6 +43,7 @@ WebUI.setText(findTestObject('Object Repository/CreateStorePage/input_StoreName'
 WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/CreateStorePage/button_CreateDevelopmentStore'))
+WebUI.delay(20)
 WebUI.verifyEqual(WebUI.getText(findTestObject('Object Repository/CreateStorePage/input_StoreCreated')), StoreName + randomNumber)
 
 WebUI.closeBrowser()
