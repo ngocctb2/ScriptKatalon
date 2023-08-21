@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email</name>
+   <name>desAbandonedCart</name>
    <tag></tag>
-   <elementGuidId>df28838b-7d9f-43e8-9084-fa539b589d9a</elementGuidId>
+   <elementGuidId>a687bd2c-2224-44e3-ab02-27e61f64989f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@class='type-ahead-input email-typo-input passkey-check-input']</value>
+         <value>//p[text()='Increase potential sales by reminding customers of their abandoned carts.']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

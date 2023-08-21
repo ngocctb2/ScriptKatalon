@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "397ABAADCA36C0A023B8882258AAF528",
+  "keywordClasses": [
+    {
+      "name": "newpackage.ssss",
+      "keywordMethods": [
+        {
+          "name": "switchToAppIframe",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

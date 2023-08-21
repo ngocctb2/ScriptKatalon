@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email</name>
+   <name>DescNotification1</name>
    <tag></tag>
-   <elementGuidId>df28838b-7d9f-43e8-9084-fa539b589d9a</elementGuidId>
+   <elementGuidId>29542791-ed0e-4342-a738-5780503eeb82</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@class='type-ahead-input email-typo-input passkey-check-input']</value>
+         <value>//h4[contains(@class, 'Polaris-Text--root')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

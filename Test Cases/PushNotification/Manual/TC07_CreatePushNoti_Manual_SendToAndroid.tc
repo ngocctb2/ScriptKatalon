@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07_CreatePushNoti_Manual_SendToAndroid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd00e2f0-ef74-4dd2-bc44-2f6e4260db56</testCaseGuid>
+</TestCaseEntity>

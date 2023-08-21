@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email</name>
+   <name>TitleNotification</name>
    <tag></tag>
-   <elementGuidId>df28838b-7d9f-43e8-9084-fa539b589d9a</elementGuidId>
+   <elementGuidId>3c7d6a00-9816-4172-9181-3a104b3afb54</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@class='type-ahead-input email-typo-input passkey-check-input']</value>
+         <value>//h1[text()='Push notifications']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06_CreatePushNoti_Manual_NavigateToCollection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17175c9d-5995-41f5-897e-97eb64a1ff69</testCaseGuid>
+</TestCaseEntity>

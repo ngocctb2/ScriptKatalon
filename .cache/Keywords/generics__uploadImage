@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F648551F373523FBF30981D0A729CE62",
+  "keywordClasses": [
+    {
+      "name": "generics.uploadImage",
+      "keywordMethods": [
+        {
+          "name": "uploadImageNoti",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email</name>
+   <name>NotiNavigateToProduct</name>
    <tag></tag>
-   <elementGuidId>df28838b-7d9f-43e8-9084-fa539b589d9a</elementGuidId>
+   <elementGuidId>13d5b44e-580e-41a7-b223-75c42912792d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@class='type-ahead-input email-typo-input passkey-check-input']</value>
+         <value>//*[text()='Navigate to']//ancestor::div[1]//span[text()='Product']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

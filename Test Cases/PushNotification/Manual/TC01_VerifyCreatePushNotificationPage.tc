@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_VerifyCreatePushNotificationPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a19e30c1-9fc2-43f2-8c56-2f719c9dd3f5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_CreatePushNoti_Manual_NavigateToHomePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7e57e37-afd1-49d4-9460-f888422d7989</testCaseGuid>
+</TestCaseEntity>

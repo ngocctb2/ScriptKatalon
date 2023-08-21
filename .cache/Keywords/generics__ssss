@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "86EAB86B46D22BC588561683D63C84C2",
+  "keywordClasses": [
+    {
+      "name": "generics.ssss",
+      "keywordMethods": [
+        {
+          "name": "switchToAppIframe",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

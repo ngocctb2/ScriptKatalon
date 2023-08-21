@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "130C91AE0E3BBC1DD0BC32FAD115BEEC",
+  "keywordClasses": [
+    {
+      "name": "generics.ifamesPage",
+      "keywordMethods": [
+        {
+          "name": "switchToAppIframe",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

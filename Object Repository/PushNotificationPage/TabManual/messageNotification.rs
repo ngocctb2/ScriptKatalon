@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email</name>
+   <name>messageNotification</name>
    <tag></tag>
-   <elementGuidId>df28838b-7d9f-43e8-9084-fa539b589d9a</elementGuidId>
+   <elementGuidId>d2506d1d-4e54-4750-b2f1-e669ddddc6db</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@class='type-ahead-input email-typo-input passkey-check-input']</value>
+         <value>//textarea[@placeholder='E.g. Flash Sale ending 👍 Up to 50% OFF. Shop now.']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
